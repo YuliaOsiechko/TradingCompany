@@ -1,0 +1,17 @@
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\BLL.deps.json
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\BLL.dll
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\BLL.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\DAL.dll
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\DTO.dll
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\DAL.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\bin\Debug\net6.0\DTO.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.dll
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\refint\BLL.dll
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\BLL.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\BLL\obj\Debug\net6.0\ref\BLL.dll
