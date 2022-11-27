@@ -1,0 +1,12 @@
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\bin\Debug\net6.0\DTO.dll
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\bin\Debug\net6.0\DTO.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.dll
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\DTO.pdb
+E:\My Files\LNU\ForJuli\TradingCompany\DTO\obj\Debug\net6.0\ref\DTO.dll
